@@ -1,2 +1,2 @@
 # Test-Repo
-This is a Test repo
+This is a Test repo for Github desktop
